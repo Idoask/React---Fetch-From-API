@@ -1,15 +1,27 @@
+
+
+.App {
+  display: flex;
+}
+
+.cart-product img {
+  height: 100px;
+}
+h2{
+  text-align:center;
+}
+
 .products {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 16px;
 	justify-content: center;
 	margin: 16px;
+  width: 80%;
 }
 
 .product {
-	padding: 16px;
-	width: 300px;
-	box-shadow: 1px 2px 4px gray;
+	width: 400px;
 }
 
 .product-title {
