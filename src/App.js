@@ -12,6 +12,7 @@ import { Home } from "./pages/Home";
 import { ProductDetails } from "./pages/ProductDetails";
 const productsUrl = "https://fakestoreapi.com/products";
 
+
 // JSX
 
 function Spinner() {
